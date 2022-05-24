@@ -1,3 +1,7 @@
+** change dependencies with bugs **
+
+---
+
 # Neutrium.thermo.IAPWS97
 
 ## Introduction
@@ -22,7 +26,7 @@ For specific details on range of applicability for the IAPWS please refer to the
 
 You can install the Neutrium implementation of the IAPWS97 equation of state package using npm.
 
-	npm install @neutrium/thermo.eos.iapws97 --save
+	npm install @tr0j332/thermo.eos.iapws97 --save
 
 ### Including
 

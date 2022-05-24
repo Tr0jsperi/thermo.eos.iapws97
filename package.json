@@ -1,9 +1,9 @@
 {
-  "name": "@neutrium/thermo.eos.iapws97",
-  "version": "2.0.2",
+  "name": "@tr0j332/thermo.eos.iapws97",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "typings": "dist/index",
-  "description": "A javascript implementation of the IAWPS formulations for the thermodynamic properties of water and steam.",
+  "description": "A javascript implementation of the IAWPS formulations for the thermodynamic properties of water and steam. Change dependencies with bugs",
   "keywords": [
       "neutrium",
       "thermodynamics",
@@ -18,16 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/neutrium/thermo.eos.iapws97.git"
+    "url": "https://github.com/Tr0jsperi/thermo.eos.iapws97.git"
   },
   "bugs": {
-    "url" : "https://github.com/neutrium/thermo.eos.iapws97/issues"
+    "url" : "https://github.com/Tr0jsperi/thermo.eos.iapws97.issues"
   },
   "devDependencies": {
     "jasmine": "^2.4.1"
   },
   "dependencies": {
-    "@neutrium/thermo": "^2.0.1"
+    "@tr0j332/thermo": "^0.0.1"
   },
   "scripts": {
       "clean": "rm -r ./dist/*",
