@@ -1,5 +1,5 @@
 "use strict";
-var thermo_1 = require('@neutrium/thermo');
+var thermo_1 = require('@tr0j332/thermo');
 var NS = require('./base');
 var R = NS.constants['R'];
 //

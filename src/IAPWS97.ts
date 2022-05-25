@@ -1,4 +1,4 @@
-import {EquationOfState, State} from "@neutrium/thermo";
+import {EquationOfState, State} from "@tr0j332/thermo";
 import {solve as PT} from './PT';
 import {solve as PH} from './PH';
 import {solve as PS} from './PS';

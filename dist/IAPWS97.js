@@ -4,7 +4,7 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-var thermo_1 = require("@neutrium/thermo");
+var thermo_1 = require("@tr0j332/thermo");
 var PT_1 = require('./PT');
 var PH_1 = require('./PH');
 var PS_1 = require('./PS');

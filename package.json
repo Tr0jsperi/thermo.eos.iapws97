@@ -1,6 +1,6 @@
 {
   "name": "@tr0j332/thermo.eos.iapws97",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "typings": "dist/index",
   "description": "A javascript implementation of the IAWPS formulations for the thermodynamic properties of water and steam. Change dependencies with bugs",
@@ -27,7 +27,7 @@
     "jasmine": "^2.4.1"
   },
   "dependencies": {
-    "@tr0j332/thermo": "^0.0.1"
+    "@tr0j332/thermo": "^0.0.2"
   },
   "scripts": {
       "clean": "rm -r ./dist/*",

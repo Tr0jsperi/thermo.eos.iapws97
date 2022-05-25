@@ -1,4 +1,4 @@
-import { State } from '@neutrium/thermo';
+import { State } from '@tr0j332/thermo';
 export declare function solve(P: number, h: number): State;
 export declare function r1_PH_T(P: number, h: number): number;
 export declare function r2(P: number, h: number): State;

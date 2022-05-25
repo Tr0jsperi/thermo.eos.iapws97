@@ -1,4 +1,4 @@
-import { State } from '@neutrium/thermo';
+import { State } from '@tr0j332/thermo';
 export declare function solve(P: number, T: number, v?: number): State;
 export declare function b23_T_P(T: number): number;
 export declare function b23_P_T(P: number): number;
